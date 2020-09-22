@@ -10,12 +10,12 @@
 
 [♦] `apt update && apt upgrade`
 
-[♦] `apt install git`
-
 [♦] `apt install git curl php openssh -y`
 
 [♦] `git clone https://github.com/HuXaifa-Xo/H-Phish`
 
 [♦] `cd H-Phish`
+
+[♦] `unzip Huzaifa.zip`
 
 [♦] `bash Huzaifa.sh`
