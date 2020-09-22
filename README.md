@@ -16,6 +16,6 @@
 
 [♦] `cd H-Phish`
 
-[♦] `unzip Huzaifa.zip`
+[♦] `unzip Huzaifa`
 
 [♦] `bash Huzaifa.sh`
